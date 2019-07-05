@@ -1,2 +1,2 @@
 # github_webhook_test
-test
+echo 'Hello World!'
